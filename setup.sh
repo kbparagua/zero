@@ -7,3 +7,4 @@ sudo apt install vim curl
 ./sublime/setup.sh
 ./ruby/setup.sh
 ./postgresql/setup.sh
+./nodejs/setup.sh
